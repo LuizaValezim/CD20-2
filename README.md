@@ -13,3 +13,7 @@ Todos os roteiros podem ser acessados pelo site do Github.
     - [Exercícios](./aula01/Aula01_Exercicios_ExploratoriaManipularDF.ipynb)
     - [Base de dados: Gapminder.xlsx](./aula01/Gapminder.xlsx)
     - [Base de dados: WorldBank.xlsx](./aula01/WorldBank.xlsx)
+- [Aula 02 - Tipos de Variáveis e Medidas Resumo](./aula02)
+    - [Atividade de sala](./aula02/Aula02-Atividade_PandasETiposDeVariaveis.ipynb)
+    - [Exercícios](./aula02/Aula02-Exercicios_PandasETiposDeVariaveis.ipynb)
+    - [Base de dados: EmpresaTV Cod.xlsx](./aula02/EmpresaTV%20Cod.xlsx)
